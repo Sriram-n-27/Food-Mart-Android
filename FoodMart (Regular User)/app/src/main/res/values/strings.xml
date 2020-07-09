@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Food Mart</string>
+    <string name="slogan">Food to your doorstep!</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kinetic</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Menu</string>
+    <string name="cart_home">Cart</string>
+    <string name="orders_home">My Orders</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="log_out">Log Out</string>
+    <string name="name_of_menu">Name of Menu</string>
+    <string name="content_desc">Image</string>
+    <string name="name_of_food">Name of Food</string>
+</resources>
